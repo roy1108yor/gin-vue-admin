@@ -3,6 +3,11 @@
 
 .DS_Store
 
+# Clacky Configuration
+.1024*
+!.1024
+.breakpoints
+
 # local env files
 .env.local
 .env.*.local
