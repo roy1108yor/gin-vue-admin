@@ -1,2 +1,0 @@
-compile_command: ""
-run_command: cd server && go run .
