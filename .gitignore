@@ -41,8 +41,3 @@ web/pnpm-lock.yaml
 *.db
 *.sqlite
 *.sqlite3
-
-# Clacky configurations
-.1024*
-!.1024
-.breakpoints
